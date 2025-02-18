@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Locomotion/Idle_Break.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Locomotion/Walk_Stop.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Crouched/Crouh_Walk.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Crouched/Crouch_Idle.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Locomotion/Locomotion.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/ABP_RPGCharacter.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Lean/Lean_left.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Lean/Lean_right.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Lean/LeanBlendspaace1D.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Vaulting/VaultOver.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Assasianation/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Assasianation/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Assasianation/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Assasianation/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Assasianation/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Blueprints/BPI_Assasination.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/ThirdPerson/Input/Actions/IA_Assosination.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Assasianation/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/I6/YIRJIRZHX21MSDQDJLA9VT.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/UI/WB_AssasinatePrompt.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/P2/4NFQYUBSMELRYU5J76HXG9.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue11.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Crouch_Idle.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Crouh_Walk.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Idle_Break.uasset",
+				"C:/Users/prabh/OneDrive/Desktop/Documents/Unreal Projects/rpg_project/Content/Characters/RPG_Character/Animation/Walk_Stop.uasset"
+			]
+		}
+	]
+}
